@@ -11,7 +11,7 @@ def main():
     max_guesses = 6
     letter_number = 0
     correct_guesses = 0
-    print(' '.join(your_word))
+    # print(' '.join(your_word))
     hide_text = len(your_word) * ['_']
 
     while max_guesses != 0:
