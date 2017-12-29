@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Write a program that will read a text file line by line.
+Program that read a text file line by line.
 Each line should be brought to lowercase and the last 5 letters of the line should be repeated.
 Write the modified lines.
 """
