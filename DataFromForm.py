@@ -1,6 +1,13 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
+"""
+Program that gets the following data from a user: name, surname, phone, postal code, city. The program check if:
+name, surname and city start with an uppercase letter
+phone is in the format: (61) 222-45-56
+postal code is in the format: 11-111
+"""
+
 import re
 
 
