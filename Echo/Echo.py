@@ -7,7 +7,6 @@ Each line should be brought to lowercase and the last 5 letters of the line shou
 Write the modified lines.
 """
 
-
 def echo_text_reader(file):
     with open(file, 'r') as text_file:
         lines = text_file.read().split('\n')
