@@ -1,6 +1,10 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
+"""
+Program that will find as many (polish) vulgar words in a text as possible and replace them with a sequence ****.
+"""
+
 import re
 
 
